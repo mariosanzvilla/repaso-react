@@ -3,7 +3,7 @@ import React, {useState} from 'react'
 export const PrimerComponente = () => {
 
     //let nombre = "Mario";
-    let web = "www.youtube.com";
+    //let web = "www.youtube.com";
 
     const [nombre, setNombre] = useState("Mario");
 

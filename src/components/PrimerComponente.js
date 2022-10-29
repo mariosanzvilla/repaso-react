@@ -22,7 +22,7 @@ export const PrimerComponente = () => {
             <p> Mi nombre es: {nombre}</p>
 
             <input type="text" onChange={e => cambiarNombre(e.target.value)} placeholder></input>
-            <button onClick={e => cambiarNombre("Mariete")}>NuevoNombre</button>
+            <button onClick={e => cambiarNombre("Mariete")}>Nuevo Nombrecito</button>
             <h2>Cursos:</h2>
             <ul>
                 {

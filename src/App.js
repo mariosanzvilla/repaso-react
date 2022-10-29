@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Repaso modificado para subir a pro 5
+          Repaso modificado para subir a pro 6
         </p>
         <PrimerComponente/>
         <hr/>
